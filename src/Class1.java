@@ -10,7 +10,8 @@ public class Class1 {
 		System.out.println("Saçmaladın");
 
 		System.out.println("Local dan commit");
-
+		System.out.println("Masterdan 1.");
+		System.out.println("ısrarla featurden konflict");
 		System.out.println("Masterdan 1.");
 		System.out.println("Masterdan 2.");
 
